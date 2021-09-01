@@ -1,0 +1,17 @@
+.label {
+  margin-left: 10px;
+
+  font-size: 18px;
+  color: #03032e;
+  text-shadow: 4px 4px 12px rgba(126, 142, 175, 0.85);
+}
+.input {
+  color: #03032e;
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 3px;
+  border: 1px solid #bdbdbd;
+  width: 210px;
+  outline: 0;
+  margin-left: 10px;
+}
